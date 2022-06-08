@@ -5,12 +5,12 @@ import { getAuth } from 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyCz7kFFeX8CyHM4lHg64FwsfTFQDzmKn0c',
-  authDomain: 'nextflix-8d2f6.firebaseapp.com',
-  projectId: 'nextflix-8d2f6',
-  storageBucket: 'nextflix-8d2f6.appspot.com',
-  messagingSenderId: '495197923419',
-  appId: '1:495197923419:web:12087897ce96685ec4777e',
+  apiKey: 'AIzaSyDJRyduXeCVX6HoYz9_PBOXKhIYc-mvhC8',
+  authDomain: 'nextflix-56777.firebaseapp.com',
+  projectId: 'nextflix-56777',
+  storageBucket: 'nextflix-56777.appspot.com',
+  messagingSenderId: '508439896030',
+  appId: '1:508439896030:web:6619eca0220b503e73874f',
 }
 
 // Initialize Firebase
